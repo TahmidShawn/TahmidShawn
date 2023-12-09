@@ -7,6 +7,17 @@
   <img src="https://raw.githubusercontent.com/TahmidShawn/TahmidShawn/main/assets/banner/banner.png" alt="Banner">
 </p>
 
+<p align="center">
+  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=TahmidShawn&theme=ayu-mirage)](https://git.io/streak-stats)
+</p>
+
+
+
+
+
+
+
+
 <!--
 **TahmidShawn/TahmidShawn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -22,5 +33,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=TahmidShawn&theme=ayu-mirage)](https://git.io/streak-stats)
+
 
