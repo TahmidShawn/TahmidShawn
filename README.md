@@ -34,7 +34,7 @@ I'm excited about the prospect of contributing to innovative projects and collab
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=react,bootstrap,mui,html,css,vscode,github,figma,tailwind,git," />
+    <img src="https://skillicons.dev/icons?i=react,bootstrap,mui,html,css,vscode,github,figma,tailwind,git," /> <br>
     <img src="https://skillicons.dev/icons?i=nodejs,javascript,express,firebase,mongodb" /><br>
 </div>
 
