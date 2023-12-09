@@ -62,14 +62,24 @@ Explore the server-side code on GitHub: [ZenFiT Server](https://github.com/Tahmi
 ## Client-Side Code
 Discover the client-side code on GitHub: [ZenFiT Client](https://github.com/TahmidShawn/ZenFiT-client-side)
 
-## Features
-- 
-- 
-- 
+Let's make every step count with ZenFiT!
+
+# SkillBee - Empowering Skills, Unleashing Potential
+
+SkillBee is a platform dedicated to helping individuals discover, enhance, and showcase their skills. Whether you're a seasoned professional or a passionate learner, SkillBee provides a space for you to grow and connect with others who share your interests.
+
+## Live Site
+Explore SkillBee on our live site: [SkillBee Live](https://skill-bee.firebaseapp.com/)
+
+## Server-Side Code
+Explore the server-side code on GitHub: [SkillBee Server](https://github.com/TahmidShawn/SkillBee-server-side)
+
+## Client-Side Code
+Discover the client-side code on GitHub: [SkillBee Client](https://github.com/TahmidShawn/SkillBee-client-side)
+
+Join us on this journey of skill empowerment with SkillBee!
 
 
-## License
-This project is licensed under the [License Name] - see the [LICENSE](LICENSE) file for details.
 
 
 
