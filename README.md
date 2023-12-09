@@ -31,7 +31,12 @@ I am a passionate MERN (MongoDB, Express.js, React, Node.js) developer currently
 
 I'm excited about the prospect of contributing to innovative projects and collaborating with like-minded individuals. If you have an opportunity that aligns with my skills, feel free to reach out. Let's create something amazing together!
 
-
+<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<br/>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=react,bootstrap,mui,html,css,vscode,github,figma,tailwind,git," />
+    <img src="https://skillicons.dev/icons?i=nodejs,javascript,express,firebase,mongodb" /><br>
+</div>
 
 
 
