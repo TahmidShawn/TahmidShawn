@@ -15,8 +15,11 @@
 </p>
 
 <p align="center">
-    ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=TahmidShawn&theme=aura_dark)
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=TahmidShawn&theme=aura_dark&utcOffset=8)
+    
+         <img width="40%" src="![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=TahmidShawn&theme=aura_dark)" />
+         <img width="40%" src="
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=TahmidShawn&theme=aura_dark&utcOffset=8)" />
+    
 </p>
 </p>
 
