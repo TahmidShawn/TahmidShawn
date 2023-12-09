@@ -7,7 +7,7 @@
   <img src="https://raw.githubusercontent.com/TahmidShawn/TahmidShawn/main/assets/banner/banner.png" alt="Banner">
 </p>
 
-
+## :chart_with_upwards_trend: Current Stats
 <p align="center">
      <img width="60%" src="https://github-readme-streak-stats.herokuapp.com?user=TahmidShawn&theme=ayu-mirage" />
 </p>
