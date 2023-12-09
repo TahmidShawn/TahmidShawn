@@ -7,9 +7,9 @@
   <img src="https://raw.githubusercontent.com/TahmidShawn/TahmidShawn/main/assets/banner/banner.png" alt="Banner">
 </p>
 
-<div align="center">
+
   [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=TahmidShawn&theme=ayu-mirage)](https://git.io/streak-stats)
-</div>
+
 
 
 
