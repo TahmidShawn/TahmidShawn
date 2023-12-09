@@ -48,6 +48,28 @@ I'm excited about the prospect of contributing to innovative projects and collab
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=TahmidShawn&theme=aura_dark&utcOffset=8" alt="GitHub Profile Summary Cards for Productive Time">
 </p>
 
+## 👀: Projects
+# ZenFiT - Your Fitness Tracker
+
+ZenFiT is a fitness tracker designed to help you stay on top of your fitness goals. Whether you're a seasoned athlete or just starting, ZenFiT has got you covered.
+
+## Live Site
+Check out ZenFiT in action: [ZenFiT Live](https://zenfit-d7462.web.app/)
+
+## Server-Side Code
+Explore the server-side code on GitHub: [ZenFiT Server](https://github.com/TahmidShawn/ZenFiT-server-side)
+
+## Client-Side Code
+Discover the client-side code on GitHub: [ZenFiT Client](https://github.com/TahmidShawn/ZenFiT-client-side)
+
+## Features
+- 
+- 
+- 
+
+
+## License
+This project is licensed under the [License Name] - see the [LICENSE](LICENSE) file for details.
 
 
 
