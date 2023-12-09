@@ -34,10 +34,7 @@ I'm excited about the prospect of contributing to innovative projects and collab
     <img src="https://skillicons.dev/icons?i=react,bootstrap,html,css,vscode,github,figma,tailwind,git" /> <br> <br>
     <img src="https://skillicons.dev/icons?i=nodejs,javascript,express,firebase,mongodb" /><br>
 </div>
-<p align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=TahmidShawn&theme=aura_dark" alt="GitHub Profile Summary Cards for Stats">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=TahmidShawn&theme=aura_dark&utcOffset=8" alt="GitHub Profile Summary Cards for Productive Time">
-</p>
+
 
 ## :chart_with_upwards_trend: Current Stats
 <p align="center">
@@ -45,6 +42,10 @@ I'm excited about the prospect of contributing to innovative projects and collab
       <p align="center">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TahmidShawn&theme=aura_dark" alt="GitHub Profile Summary Cards">
        
+</p>
+<p align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=TahmidShawn&theme=aura_dark" alt="GitHub Profile Summary Cards for Stats">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=TahmidShawn&theme=aura_dark&utcOffset=8" alt="GitHub Profile Summary Cards for Productive Time">
 </p>
 
 
