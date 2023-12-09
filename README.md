@@ -3,7 +3,10 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&color=000000&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Tahmid+Shawn!;" style="color: black" />
 </h1>
 
-![Banner](https://raw.githubusercontent.com/TahmidShawn/TahmidShawn/main/assets/banner/banner.png)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/TahmidShawn/TahmidShawn/main/assets/banner/banner.png" alt="Banner">
+</p>
+
 <!--
 **TahmidShawn/TahmidShawn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
