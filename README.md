@@ -12,14 +12,7 @@
      <img width="60%" src="https://github-readme-streak-stats.herokuapp.com?user=TahmidShawn&theme=ayu-mirage" />
       <p align="center">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TahmidShawn&theme=aura_dark" alt="GitHub Profile Summary Cards">
-</p>
-
-<p align="center">
-    ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=TahmidShawn&theme=aura_dark)
-        />
-         
-    
-</p>
+          ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=TahmidShawn&theme=aura_dark)
 </p>
 
 ## 👓: About Me:
