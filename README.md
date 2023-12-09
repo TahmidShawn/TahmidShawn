@@ -53,16 +53,14 @@ I'm excited about the prospect of contributing to innovative projects and collab
 
 ZenFiT is a fitness tracker designed to help you stay on top of your fitness goals. Whether you're a seasoned athlete or just starting, ZenFiT has got you covered.
 
-## Live Site
-Check out ZenFiT in action: [ZenFiT Live](https://zenfit-d7462.web.app/)
+## Explore ZenFiT
 
-## Server-Side Code
-Explore the server-side code on GitHub: [ZenFiT Server](https://github.com/TahmidShawn/ZenFiT-server-side)
-
-## Client-Side Code
-Discover the client-side code on GitHub: [ZenFiT Client](https://github.com/TahmidShawn/ZenFiT-client-side)
+- **Live Site:** [ZenFiT Live](https://zenfit-d7462.web.app/)
+- **Server-Side Code:** [ZenFiT Server](https://github.com/TahmidShawn/ZenFiT-server-side)
+- **Client-Side Code:** [ZenFiT Client](https://github.com/TahmidShawn/ZenFiT-client-side)
 
 Let's make every step count with ZenFiT!
+
 
 # SkillBee - Empowering Skills, Unleashing Potential
 
@@ -76,6 +74,17 @@ SkillBee is a platform dedicated to helping individuals discover, enhance, and s
 
 Join us on this journey of skill empowerment with SkillBee!
 
+# TechVine - Cultivating Tech Knowledge
+
+TechVine is a platform that cultivates tech knowledge, providing a space for tech enthusiasts to explore, learn, and collaborate. Whether you're a seasoned developer or just starting your tech journey, TechVine is here to nurture your passion for technology.
+
+## Explore TechVine
+
+- **Live Site:** [TechVine Live](https://techvine-3c37f.web.app/)
+- **Server-Side Code:** [TechVine Server](https://github.com/TahmidShawn/TechVine-server-side)
+- **Client-Side Code:** [TechVine Client](https://github.com/TahmidShawn/TechVine-client-side)
+
+Join us in growing a vibrant community of tech knowledge with TechVine!
 
 
 
