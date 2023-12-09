@@ -8,7 +8,11 @@
 </p>
 
 
-  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=TahmidShawn&theme=ayu-mirage)](https://git.io/streak-stats)
+<p align="center">
+     <img width="60%" src="https://github-readme-streak-stats.herokuapp.com?user=TahmidShawn&theme=ayu-mirage" />
+</p>
+
+
 
 
 
