@@ -10,7 +10,9 @@
 ## :chart_with_upwards_trend: Current Stats
 <p align="center">
      <img width="60%" src="https://github-readme-streak-stats.herokuapp.com?user=TahmidShawn&theme=ayu-mirage" />
-    ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TahmidShawn&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&custom_title=Top%20Languages&count_private=true)
+      <p align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TahmidShawn&theme=aura_dark" alt="GitHub Profile Summary Cards">
+</p>
 
 
 </p>
