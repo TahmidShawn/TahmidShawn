@@ -1,6 +1,6 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=TahmidShawn.TahmidShawn" />
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&color=000000&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Tahmid+Shawn!;" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=80&pause=1000&color=FFFFFF&background=000000&random=false&width=1000&height=300&lines=Hi%2C+There;I'm+Tahmid;" />
 </h1> 
 
 
