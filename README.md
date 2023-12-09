@@ -7,13 +7,7 @@
   <img src="https://raw.githubusercontent.com/TahmidShawn/TahmidShawn/main/assets/banner/banner.png" alt="Banner">
 </p>
 
-## :chart_with_upwards_trend: Current Stats
-<p align="center">
-     <img width="60%" src="https://github-readme-streak-stats.herokuapp.com?user=TahmidShawn&theme=ayu-mirage" />
-      <p align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TahmidShawn&theme=aura_dark" alt="GitHub Profile Summary Cards">
-       
-</p>
+
 
 ## 👓: About Me:
 
@@ -45,29 +39,16 @@ I'm excited about the prospect of contributing to innovative projects and collab
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=TahmidShawn&theme=aura_dark&utcOffset=8" alt="GitHub Profile Summary Cards for Productive Time">
 </p>
 
+## :chart_with_upwards_trend: Current Stats
+<p align="center">
+     <img width="60%" src="https://github-readme-streak-stats.herokuapp.com?user=TahmidShawn&theme=ayu-mirage" />
+      <p align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TahmidShawn&theme=aura_dark" alt="GitHub Profile Summary Cards">
+       
+</p>
 
 
 
-
-
-
-
-
-
-<!--
-**TahmidShawn/TahmidShawn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 
 
 
