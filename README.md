@@ -15,8 +15,8 @@
 </p>
 
 <p align="center">
-    
-         <img width="50%" src="![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=TahmidShawn&theme=aura_dark)" />
+    ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=TahmidShawn&theme=aura_dark)
+        />
          
     
 </p>
