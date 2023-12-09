@@ -15,6 +15,7 @@
 </p>
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=TahmidShawn&theme=aura_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=TahmidShawn&theme=aura_dark&utcOffset=8)
 </p>
 
 ## 👓: About Me:
