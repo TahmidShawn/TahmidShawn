@@ -12,6 +12,25 @@
      <img width="60%" src="https://github-readme-streak-stats.herokuapp.com?user=TahmidShawn&theme=ayu-mirage" />
 </p>
 
+## 👓: About Me:
+
+I am a passionate MERN (MongoDB, Express.js, React, Node.js) developer currently on the lookout for exciting job opportunities. Despite not having completed my graduation yet, my enthusiasm for web development and the MERN stack drives me to constantly learn and evolve.
+
+### What I Bring to the Table:
+
+- **MERN Stack Expertise:** Proficient in MongoDB, Express.js, React, and Node.js.
+- **Problem Solver:** I thrive on tackling challenges and finding creative solutions.
+- **Continuous Learner:** Always exploring new technologies to stay ahead in the rapidly evolving tech landscape.
+
+### Current Focus:
+
+- Actively seeking opportunities to apply and enhance my MERN development skills.
+- Contributing to open source projects and expanding my professional network.
+
+### Let's Connect!
+
+I'm excited about the prospect of contributing to innovative projects and collaborating with like-minded individuals. If you have an opportunity that aligns with my skills, feel free to reach out. Let's create something amazing together!
+
 
 
 
