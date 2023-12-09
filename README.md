@@ -14,7 +14,7 @@
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TahmidShawn&theme=aura_dark" alt="GitHub Profile Summary Cards">
        
 </p>
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=TahmidShawn&theme=aura_dark)
+
 ## 👓: About Me:
 
 I am a passionate MERN (MongoDB, Express.js, React, Node.js) developer currently on the lookout for exciting job opportunities. Despite not having completed my graduation yet, my enthusiasm for web development and the MERN stack drives me to constantly learn and evolve.
