@@ -6,7 +6,7 @@
 
 ## 👓: About Me:
 ### I am Tahmid Shawn.
-I am a MERN (MongoDB, Express.js, React, Node.js) developer currently on the lookout for exciting job opportunities. Despite not having completed my graduation yet, my enthusiasm for web development and the MERN stack drives me to constantly learn and evolve.
+I am a Front End developer currently on the lookout for exciting job opportunities. Despite not having completed my graduation yet, my enthusiasm for web development drives me to constantly learn and evolve.
 
 ### What I Bring to the Table:
 
